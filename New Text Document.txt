@@ -1,0 +1,28 @@
+
+Ultimate@DESKTOP-NPJ7SD1 MINGW64 ~/Desktop/test/School (master)
+$ git add .
+
+Ultimate@DESKTOP-NPJ7SD1 MINGW64 ~/Desktop/test/School (master)
+$ git commit -m "u"
+[master 16735ad] u
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test2.txt
+
+Ultimate@DESKTOP-NPJ7SD1 MINGW64 ~/Desktop/test/School (master)
+$ git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 235 bytes | 235.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+
+To https://github.com/neveenisaac/School
+   c33af2f..16735ad  master -> master
+
+Ultimate@DESKTOP-NPJ7SD1 MINGW64 ~/Desktop/test/School (master)
+$
+
+Ultimate@DESKTOP-NPJ7SD1 MINGW64 ~/Desktop/test/School (master)
+$ git push origin master
